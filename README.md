@@ -2,15 +2,23 @@
 
 > a little corner where ideas turn into code ♡
 
-┌──────────────────────────────────────┐
-│          hello, i'm aysha ♡          │
-│                                      │
-│         Software Developer           │
-│       B.E. — Information Science     │
-│       Designer & Creative Learner    │
-│         Learning by building         │
-└──────────────────────────────────────┘
+<table align="center">
+<tr>
+<td align="center">
 
+### hello, i'm aysha ♡
+
+**Software Developer**
+
+**B.E. — Information Science**
+
+**Designer & Creative Learner**
+
+**Learning by building**
+
+</td>
+</tr>
+</table>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🖊️ things i'm learning
