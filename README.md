@@ -20,7 +20,7 @@ Learning by building
 </table>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🖊️ things i'm learning
+## Things i'm learning
 
 HTML • CSS • JavaScript • React
 Node.js • Express.js • MongoDB
@@ -31,7 +31,7 @@ Web Applications, Android Apps & AI-powered ideas.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🎨 beyond the code
+## Beyond the code
 
 I enjoy mixing technology with creativity.
 
@@ -44,7 +44,7 @@ I enjoy mixing technology with creativity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📖 projects i've drawn into code
+## Projects i've drawn into code
 
 ┌─ 📋 Daily Planner
 │
@@ -62,7 +62,7 @@ I enjoy mixing technology with creativity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🛠️ my little toolbox
+## My little toolbox
 
 `HTML` `CSS` `JavaScript` `React`
 `Python` `Kotlin` `Node.js`
@@ -70,7 +70,7 @@ I enjoy mixing technology with creativity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌱 currently
+## Currently
 
 Learning something new,
 building something small,
