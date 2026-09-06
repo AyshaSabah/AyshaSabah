@@ -1,27 +1,76 @@
-        👋 Hi, I'm Aysha Sabah
+# ✦ Aysha Sabah's Sketchbook
 
-        Software Developer | B.E. Student
+> a little corner where ideas turn into code ♡
 
-   🌱 Currently learning and building
-   💻 HTML • CSS • JavaScript • React
-   🎨 Interested in creating clean & useful projects
+┌──────────────────────────────────────┐
+│          hello, i'm aysha ♡          │
+│                                      │
+│         Software Developer           │
+│       B.E. — Information Science     │
+│       Designer & Creative Learner    │
+│         Learning by building         │
+└──────────────────────────────────────┘
 
-        ✨ About Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-   🎓 B.E. Student
-   💻 Building web projects
-   🌱 Learning new technologies
-   🚀 Exploring software development
+## 🖊️ things i'm learning
 
-        🛠️ Tech Stack
+HTML • CSS • JavaScript • React
+Node.js • Express.js • MongoDB
+Kotlin • Jetpack Compose • Firebase
 
-   HTML  CSS  JavaScript  React
-   Git   GitHub  Node.js  MongoDB
+I'm especially interested in Front-End Development,
+Web Applications, Android Apps & AI-powered ideas.
 
-        📌 Featured Projects
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-   Daily Planner
-   PlaySphere
-   Namma Pustaka Android App
+## 🎨 beyond the code
 
-        📊 GitHub Stats
+I enjoy mixing technology with creativity.
+
+🎨 Digital Art & Sketching  
+🖥️ Web Design  
+💡 Product Ideas  
+🤖 Exploring AI Tools  
+✍️ Writing Stories & Quotes  
+🎮 Games & Movies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📖 projects i've drawn into code
+
+┌─ 📋 Daily Planner
+│
+├─ 🎮 PlaySphere
+│
+├─ 📚 Namma Pustaka
+│
+├─ 🎬 MovieVerse
+│
+├─ 📔 Momentry
+│
+├─ 🌱 AgriFutura
+│
+└─ 🤟 Hand Sign to Text Converter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🛠️ my little toolbox
+
+`HTML` `CSS` `JavaScript` `React`
+`Python` `Kotlin` `Node.js`
+`MongoDB` `Firebase` `Git` `GitHub`
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌱 currently
+
+Learning something new,
+building something small,
+and turning random ideas into projects.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### ✧ one idea at a time ✧
+
+        — Aysha Sabah ♡
