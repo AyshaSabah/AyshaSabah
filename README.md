@@ -6,15 +6,12 @@
 <tr>
 <td align="center">
 
-### hello, i'm aysha ♡
+<h3>hello, i'm aysha ♡</h3>
 
-**Software Developer**
-
-**B.E. — Information Science**
-
-**Designer & Creative Learner**
-
-**Learning by building**
+Software Developer<br>
+B.E. — Information Science<br>
+Designer & Creative Learner<br>
+Learning by building
 
 </td>
 </tr>
