@@ -44,24 +44,6 @@ I enjoy mixing technology with creativity.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Projects i've drawn into code
-
-┌─ 📋 Daily Planner
-│
-├─ 🎮 PlaySphere
-│
-├─ 📚 Namma Pustaka
-│
-├─ 🎬 MovieVerse
-│
-├─ 📔 Momentry
-│
-├─ 🌱 AgriFutura
-│
-└─ 🤟 Hand Sign to Text Converter
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## My little toolbox
 
 `HTML` `CSS` `JavaScript` `React`
