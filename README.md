@@ -8,10 +8,12 @@
 
 <h3>hello, i'm aysha ♡</h3>
 
-Software Developer<br>
-B.E. — Information Science<br>
-Designer & Creative Learner<br>
+<pre>
+Software Developer
+B.E. — Information Science
+Designer & Creative Learner
 Learning by building
+</pre>
 
 </td>
 </tr>
