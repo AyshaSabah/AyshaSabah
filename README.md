@@ -64,4 +64,13 @@ and turning random ideas into projects.
 
         — Aysha Sabah ♡
 
-https://roadmap.sh/card/tall/68bf132e0f364a5c6eddf53c?variant=dark
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+my learning roadmap
+
+<div align="center">
+
+<img src="https://roadmap.sh/card/tall/68bf132e0f364a5c6eddf53c?variant=dark" alt="Aysha's Developer Roadmap" width="350">
+
+</div>
+
