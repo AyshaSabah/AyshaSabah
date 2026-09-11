@@ -63,3 +63,5 @@ and turning random ideas into projects.
 ### ✧ one idea at a time ✧
 
         — Aysha Sabah ♡
+
+https://roadmap.sh/card/tall/68bf132e0f364a5c6eddf53c?variant=dark
