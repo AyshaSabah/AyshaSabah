@@ -22,7 +22,7 @@ Learning by building
 
 ## Things i'm learning
 
-HTML • CSS • JavaScript • React
+HTML • CSS • JavaScript • React • 
 Node.js • Express.js • MongoDB • 
 Kotlin • Jetpack Compose • Firebase
 
