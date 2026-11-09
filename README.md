@@ -34,11 +34,11 @@ Web Applications, Android Apps & AI-powered ideas.
 ## Beyond the code
 
 I enjoy mixing technology with creativity.
-
-🎨 Digital Art & Sketching  
+  
 🖥️ Web Design  
 💡 Product Ideas  
 🤖 Exploring AI Tools  
+🎨 Digital Art & Sketching
 ✍️ Writing Stories & Quotes  
 🎮 Games & Movies
 
