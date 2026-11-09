@@ -38,7 +38,7 @@ I enjoy mixing technology with creativity.
 🖥️ Web Design  
 💡 Product Ideas  
 🤖 Exploring AI Tools  
-🎨 Digital Art & Sketching
+🎨 Digital Art & Sketching  
 ✍️ Writing Stories & Quotes  
 🎮 Games & Movies
 
