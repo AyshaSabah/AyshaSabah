@@ -6,7 +6,7 @@
 <tr>
 <td align="center">
 
-<h3>Hello, i'm Aysha Sabah -V- ♡</h3>
+<h3>Hello, I'm Aysha Sabah >w< ♡</h3>
 
 <pre>
 Software Developer
